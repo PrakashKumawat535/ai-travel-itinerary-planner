@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="premium-cyber" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F5D4" />
+      <stop offset="50%" stop-color="#00BBF9" />
+      <stop offset="100%" stop-color="#7B2CBF" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="#0B0C10" />
+  
+  <polygon points="256,50 430,150 430,362 256,462 82,362 82,150" fill="none" stroke="url(#premium-cyber)" stroke-width="18" stroke-linejoin="round"/>
+  
+  <path d="M160 190 L256 270 L352 190 M256 270 L256 390" fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <circle cx="160" cy="190" r="18" fill="#00F5D4" />
+  <circle cx="352" cy="190" r="18" fill="#7B2CBF" />
+  <circle cx="256" cy="390" r="22" fill="url(#premium-cyber)" />
+</svg>
